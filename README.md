@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkLahiru
 - 👀 I’m interested in Machine Learning , Computer Vision , Web Application development , Mobile Application Development and more
-- 🌱 I’m currently learning ReactJS , AngularJS , Tensorflow , React Native
+- 🌱 I’m currently learning ReactJS , AngularJS , React Native , NodeJs , Tensorflow
 - 💞️ I’m looking to collaborate on Web application development , Mobile Application Development
 - 📫 How to reach me lahirug96@gmail.com
 
